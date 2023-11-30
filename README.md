@@ -1,2 +1,2 @@
 # oibsip_task1
-[Landing Page](https://arnabnathwebpae.netlify.app/)
+[Landing Page](https://arnabnathwebpage.netlify.app/)
